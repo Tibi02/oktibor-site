@@ -36,7 +36,7 @@
     "mustache": "^3.2.1",
     "node-fetch": "^2.6.1",
     "node-html-parser": "^1.4.9",
-    "npm": "^7.17.0",
+    "npm": "^7.18.1",
     "octicons": "^8.5.0",
     "popper.js": "^1.16.1",
     "qs": "^6.10.1",
@@ -47,7 +47,7 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.23.3",
+    "eslint-plugin-import": "^2.23.4",
     "nodemon": "^1.19.4"
   }
 }
